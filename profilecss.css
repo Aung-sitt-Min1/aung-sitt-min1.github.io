@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&family=Sevillana&display=swap');
+body{
+    background-image: linear-gradient(blue,black,rgb(131, 1, 131));
+}
+h1{
+    font-family: 'Sevillana', cursive;
+    font-size: 100px;
+    color: aliceblue;
+    text-align: center;
+
+}
+.I{
+    -webkit-box-reflect: below 0px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.DIV{
+    margin-top: 170px;
+    color: aliceblue;
+    font-family: Rubik Vinyl;
+}
+
